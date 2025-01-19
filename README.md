@@ -5,7 +5,7 @@
 ### 📫 Contact
 <a href="mailto:hojinkim971597@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="hojinkim971597@gmail.com"/></a>
 <br/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgmarobiana%2Fhit-counter&count_bg=%23FF9CB1&title_bg=%2341606C&icon=&icon_color=orange&title=hits&edge_flat=false)](https://github.com/hjKim1597)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhjKim1597&count_bg=%233488EF&title_bg=%23BFBDE3&icon=&icon_color=%233394FF&title=%F0%9F%8D%92&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br/>
 
