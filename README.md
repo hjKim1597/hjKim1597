@@ -23,7 +23,8 @@
 
 <br/>
 
-![winter](https://github.com/user-attachments/assets/e2850ea5-5872-4e4f-a675-01db12491d03)
+<!--![winter](https://github.com/user-attachments/assets/e2850ea5-5872-4e4f-a675-01db12491d03)-->
+![winter_2](https://github.com/user-attachments/assets/9a7bc304-9246-441d-93c0-62f3f516e8e7)
 
 <br/>
 
