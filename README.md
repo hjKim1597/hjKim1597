@@ -2,12 +2,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=gradient)
 
-<br/>
 
 ### 📫 Contact
-<a href="mailto:hojinkim971597@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="hojinkim971597@gmail.com"/></a>
 
 <br/>
+
+<a href="mailto:hojinkim971597@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="hojinkim971597@gmail.com"/></a>
+
 
 <hr>
 
